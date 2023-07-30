@@ -20,4 +20,9 @@ public class DemoDay2 {
 	public static void divid(int a, int b) {
 		System.out.println(a/b);
 	}
+	//next method --> divide()
+	public static void divid2(int a, int b) {
+		System.out.println(a/b);
+	}
+	
 }
