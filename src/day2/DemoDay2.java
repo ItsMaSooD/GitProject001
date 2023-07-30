@@ -24,5 +24,9 @@ public class DemoDay2 {
 	public static void divid2(int a, int b) {
 		System.out.println(a/b);
 	}
+	//next method --> divide()
+	public static void add2(int a, int b, int c) {
+		System.out.println(a+b+c);
+	}
 	
 }
