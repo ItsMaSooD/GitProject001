@@ -14,5 +14,10 @@ public class DemoDay2 {
 	//another method --> Subtract()
 	public static void subtract(int a, int b) {
 		System.out.println(a-b);
+
+	}
+	//next method --> divide()
+	public static void divid(int a, int b) {
+		System.out.println(a/b);
 	}
 }
