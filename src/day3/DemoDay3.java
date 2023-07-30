@@ -7,7 +7,10 @@ public class DemoDay3 {
 	}
 	public static void addInfo(){
 		String country = "USA";
-		String State = "VA";
+		String state = "VA";
+
+		System.out.println(country);
+		System.out.println(state);
 	}
 
 }
